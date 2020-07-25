@@ -12,7 +12,7 @@
 
 body::before{
     content: '';
-    background: #645862 url(../images/view.jpg) no-repeat center center/cover;
+    background: #645862 url(view.jpg) no-repeat center center/cover;
     background-blend-mode: overlay;
     background-attachment: fixed;
     position: absolute;
